@@ -1,0 +1,6 @@
+U:\personal\csharp\WebServerTry1\WebServerTry1\bin\Debug\WebServerTry1.exe.config
+U:\personal\csharp\WebServerTry1\WebServerTry1\bin\Debug\WebServerTry1.exe
+U:\personal\csharp\WebServerTry1\WebServerTry1\bin\Debug\WebServerTry1.pdb
+U:\personal\csharp\WebServerTry1\WebServerTry1\obj\Debug\WebServerTry1.csprojResolveAssemblyReference.cache
+U:\personal\csharp\WebServerTry1\WebServerTry1\obj\Debug\WebServerTry1.exe
+U:\personal\csharp\WebServerTry1\WebServerTry1\obj\Debug\WebServerTry1.pdb
